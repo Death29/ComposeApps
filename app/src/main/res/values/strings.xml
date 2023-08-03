@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Indocyber</string>
+    <string name="title_activity_detail_promo">DetailPromo</string>
+    <string name="title_activity_list_promo">ListPromoAct</string>
+</resources>
