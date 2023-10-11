@@ -1,5 +1,28 @@
 <resources>
-    <string name="app_name">Test Indocyber</string>
+    <string name="app_name">Assessment Test</string>
     <string name="title_activity_detail_promo">DetailPromo</string>
     <string name="title_activity_list_promo">ListPromoAct</string>
+
+    <string name="title_detail">Detail Promo</string>
+    <string name="count_coupons">Sisa %1$s Kupon</string>
+
+    <string name="lbl_btn_promo">Promo</string>
+    <string name="lbl_btn_qr">Qris</string>
+
+    <string name="lbl_scanner">Scan Di sini</string>
+    <string name="lbl_info_user">Informasi User</string>
+    <string name="lbl_detail_payment">Detail Payment</string>
+    <string name="lbl_bank_destination">Bank :</string>
+    <string name="lbl_id_trans">ID Transaksi :</string>
+    <string name="lbl_merchant">Merchant :</string>
+    <string name="lbl_nominal">Nominal :</string>
+    <string name="lbl_saving">Saldo :</string>
+    <string name="lbl_history_transaksi">Riwayat Transaksi</string>
+    <string name="lbl_no_data">Tidak Ada Data</string>
+    <string name="lbl_chart">Chart</string>
+    <string name="lbl_chart_donut">Data Chart Donut</string>
+    <string name="lbl_detail_chart_donut">Detail Data Chart Donut</string>
+    <string name="lbl_line_chart">Data Line Chart</string>
+
+    <string name="lbl_rp">Rp %1$s</string>
 </resources>
